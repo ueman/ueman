@@ -15,7 +15,7 @@ I'm a software engineer located in Osnabrück, Germany 🌆
 
 [Paypal](https://paypal.me/JonasUekoetter) | [Buy me a coffee](https://www.buymeacoffee.com/jonasuekoetter) | [GitHub Sponsor](https://github.com/sponsors/ueman)
 
-I'm working on my packages on my free-time, but I don't have as much time as I would. If one of the pakcages I created is helping you, please consider to sponsor me. By doing so, I will prioritize your issues or your pull-requests before the others.
+I'm working on my packages on my free-time, but I don't have as much time as I would. If one of the packages I created is helping you, please consider to sponsor me. By doing so, I will prioritize your issues or your pull-requests before the others.
 
 ### Open Source Projects
 [![Feedback](https://github-readme-stats.vercel.app/api/pin/?username=ueman&repo=feedback)](https://github.com/ueman/feedback)
