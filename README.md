@@ -2,7 +2,6 @@
 
 I'm a software engineer located in Osnabrück, Germany 🌆
 
-- 🔭 I’m currently working part time on my master thesis and open source.
 - 💬 Ask me about Flutter, Release Automation of apps, and mobile apps.
 - 📫 You can reach me on [Twitter](https://twitter.com/ue_man)
 
